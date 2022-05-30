@@ -1,0 +1,98 @@
+.herocaption {
+    text-align: right;
+    padding: 10px;
+}
+
+.col-sm- {
+    background-color: beige;
+}
+.main{
+    background-color: white;
+
+}
+
+.hb {
+    background-image: url(file:///Users/pramodhkailas/Documents/GitHub/UX_UI_HW_20/portfolioshots/hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    padding-top: 10%;
+    padding-left: 20%;
+    font-size: 20px;
+    border-bottom: 3px black solid;
+}
+
+.ps {
+    align-items: baseline;
+    text-align: right;
+    padding-top: 10%;
+    padding-left: 20%;
+    font-size: 20px;
+
+}
+
+.rd {
+    color: red;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+* {
+    font-size: 20px;
+}
+
+.bld {
+    font-weight: bold;
+}
+
+.bldhd {
+    font-size: 40px;
+}
+
+.cent {
+    padding-top: 20%;
+}
+
+.cent10 {
+    padding-top: 10%;
+
+}
+
+.brd {
+    border: 1px dashed gray;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rdp {
+    border: 1px dashed red;
+    background-color: #2E3192;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.rdp a:default{
+    color:#fff;
+    text-decoration: none;
+}
+.rdp a:hover{
+    color:red;
+    text-decoration: dashed;
+}
+.rdp a:visited{
+    color:white;
+    text-decoration: none;
+}
+.rdr {
+    border: 1px dashed #2E3192;
+    background-color: #F15A29;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
